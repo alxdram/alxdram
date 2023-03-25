@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alxdram
-- 👀 I’m interested in business, building 
-Architecture, Engineering and construction
+- 👀 I’m interested in business, building software and shaping the future of
+Architecture, Engineering and construction 
 - 🌱 I’m currently learning how to be a great CEO for our technology 
-company while learning how to code 3D design tools in iOS on web and iOS. 
-- 💞️ I’m looking to collaborate on creating a better community 
+company while learning how to code 3D design tools in iOS and web. 
+- 💞️ I’m looking to collaborate on creating a better community and future
 - 📫 How to reach me, give me a call +1 (415) 650-4000
 
 <!---
